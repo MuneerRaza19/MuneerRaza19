@@ -4,5 +4,5 @@ My name is Muneer-Raza, and I'm a passionate GCSE Student with experience in a v
 ## <h2>👨‍Projects:</h2>
 
 - <b>Basic Calculator</b>
-  - [HTML, CSS, JAVASCRIPT](https://github.com/MuneerRaza19/Calculator)
+  - [USES HTML. CSS. JAVASCRIPT](https://github.com/MuneerRaza19/Calculator)
 
