@@ -4,7 +4,13 @@ My name is Muneer-Raza, and I'm a student with experience in a variety of progra
 ## <h2>👨‍Projects:</h2>
 
 - <b>Basic Calculator</b>
-  - [Click Here](https://github.com/MuneerRaza19/Calculator)
+  - [Click Here](https://github.com/MuneerRaza19/Calculator) - HTML CSS JAVASCRIPT
+  - <bTo Do List</b>
+  - [Click Here](https://github.com/MuneerRaza19/todolist)
+  - <b>Random Number Generator</b>
+  - [Click Here](https://github.com/MuneerRaza19/Random-number-generator-web-app)
+  - <b>Unit Convertor</b>
+  - [Click Here](https://github.com/MuneerRaza19/UnitConvertor/tree/master)
 
 
 
