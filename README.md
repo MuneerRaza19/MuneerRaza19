@@ -5,11 +5,11 @@ My name is Muneer-Raza, and I'm a student with experience in a variety of progra
 
 - <b>Basic Calculator</b>
   - [Click Here](https://github.com/MuneerRaza19/Calculator) - HTML CSS JAVASCRIPT
-  - <bTo Do List</b>
+- <b>To Do List</b>
   - [Click Here](https://github.com/MuneerRaza19/todolist)
-  - <b>Random Number Generator</b>
+- <b>Random Number Generator</b>
   - [Click Here](https://github.com/MuneerRaza19/Random-number-generator-web-app)
-  - <b>Unit Convertor</b>
+- <b>Unit Convertor</b>
   - [Click Here](https://github.com/MuneerRaza19/UnitConvertor/tree/master)
 
 
