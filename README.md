@@ -4,7 +4,7 @@ My name is Muneer-Raza, and I'm a student with experience in a variety of progra
 ## <h2>👨‍Projects:</h2>
 
 - <b>Basic Calculator</b>
-  - [USES HTML. CSS. JAVASCRIPT](https://github.com/MuneerRaza19/Calculator)
+  - [Click Here](https://github.com/MuneerRaza19/Calculator)
 
 
 
