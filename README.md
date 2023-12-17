@@ -17,6 +17,8 @@ LinkedIn - https://www.linkedin.com/in/muneer-raza-a-044b62286/
   - [Click Here](https://github.com/MuneerRaza19/Replica-Arcade-v1-eccomerse)
 - <b> Countdown Program</b>
   - [Click Here](https://github.com/MuneerRaza19/Countdown-c-program)
+- <b> Expense Tracker</b>
+  - [Click Here](https://github.com/MuneerRaza19/expense-recorder/tree/main)
 
 
 
